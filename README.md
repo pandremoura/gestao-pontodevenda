@@ -1,3 +1,6 @@
+# ATENÇÃO API EM CONSTRUÇÃO
+
+
 # Dino Gestor - Software de Gestão para Restaurantes
 
 Neste repositório você encontra o backend de um software de código aberto projetado para ajudar restaurantes a gerenciar eficientemente suas operações, desde a gestão de produtos e vendas até relatórios detalhados e controle de acesso baseado em funções.
