@@ -1,9 +1,9 @@
 # ATENÇÃO API EM CONSTRUÇÃO
 
 
-# Dino Gestor - Software de Gestão para Restaurantes
+# Software de Gestão de vendas
 
-Neste repositório você encontra o backend de um software de código aberto projetado para ajudar restaurantes a gerenciar eficientemente suas operações, desde a gestão de produtos e vendas até relatórios detalhados e controle de acesso baseado em funções.
+Neste repositório você encontra o backend de um software de código aberto projetado para ajudar a gerenciar eficientemente suas operações, desde a gestão de produtos e vendas até relatórios detalhados e controle de acesso baseado em funções.
 
 ## Recursos Principais
 
@@ -16,11 +16,11 @@ Neste repositório você encontra o backend de um software de código aberto pro
 
 ## Utilização
 
-Para instalar e executar o Dino Gestor, você precisará ter as seguintes tecnologias e bibliotecas instaladas:
+Para instalar e executar o gestor de vendas, você precisará ter as seguintes tecnologias e bibliotecas instaladas:
 
 - [Node.js](https://nodejs.org/): O software é desenvolvido em JavaScript e requer o Node.js para ser executado.
 - [Express](https://expressjs.com/): Utilizado para criar a aplicação web e gerenciar rotas.
-- [PostgreSQL](https://www.postgresql.org/): O Dino Gestor usa o PostgreSQL como banco de dados. Você pode configurá-lo por meio do serviço [ElephantSQL](https://www.elephantsql.com/).
+- [PostgreSQL](https://www.postgresql.org/): O Gestor de vendas usa o PostgreSQL como banco de dados. Você pode configurá-lo por meio do serviço [ElephantSQL](https://www.elephantsql.com/).
 - [Bcrypt](https://www.npmjs.com/package/bcrypt): Utilizado para criptografar senhas.
 - [JsonWebToken](https://www.npmjs.com/package/jsonwebtoken): Para autenticação baseada em tokens.
 - [Knex](https://knexjs.org/): Um construtor de consultas SQL para interagir com o banco de dados.
@@ -29,8 +29,7 @@ Para instalar e executar o Dino Gestor, você precisará ter as seguintes tecnol
 - [dotenv](https://www.npmjs.com/package/dotenv): Para carregar variáveis de ambiente a partir de um arquivo `.env`.
 - Entre outras que você encontra no arquivo package.json.
 
-Certifique-se de instalar todas essas dependências antes de prosseguir com a instalação do Dino Gestor.
-
+Certifique-se de instalar todas essas dependências antes de prosseguir com a instalação do Gestor de vendas.
 
 
 ## Configuração do Controle de Acesso Baseado em Funções
@@ -50,7 +49,7 @@ Certifique-se de instalar todas essas dependências antes de prosseguir com a in
 
 ## Contribuição
 
-Aceitamos contribuições! Se você deseja melhorar o Dino Gestor, siga estas etapas:
+Aceitamos contribuições! Se você deseja melhorar o Gestor de vendas, siga estas etapas:
 
 1. Fork o repositório.
 2. Crie uma branch para sua contribuição (`git checkout -b feature/nova-funcionalidade`).
